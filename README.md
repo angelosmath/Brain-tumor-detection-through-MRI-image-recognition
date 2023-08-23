@@ -16,8 +16,8 @@ February 2022
 
 &nbsp;
 
-[plot_1](https://github.com/angelosmath/Brain-tumor-detection-through-MRI-image-recognition/blob/main/plots/plot_1.png)
-[plot_2](https://github.com/angelosmath/Brain-tumor-detection-through-MRI-image-recognition/blob/main/plots/plot_2.png)
+![plot_1](https://github.com/angelosmath/Brain-tumor-detection-through-MRI-image-recognition/blob/main/plots/plot_1.png)
+![plot_2](https://github.com/angelosmath/Brain-tumor-detection-through-MRI-image-recognition/blob/main/plots/plot_2.png)
 
 &nbsp;
 &nbsp;
