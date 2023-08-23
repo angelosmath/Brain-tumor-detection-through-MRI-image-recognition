@@ -7,7 +7,7 @@ This research aims to demonstrate the optimal algorithm for brain tumor detectio
 
 ## Where
 
-CS-577 Machine Learning course,
+[CS-577] Machine Learning course, MSc Bioinformatics
 Computer Science Department, 
 University of Crete
 
