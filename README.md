@@ -3,7 +3,7 @@
 ## Abstract
 
 This research investigates the predictive ability of various machine learning al-1
-gorithms on identifying brain tumors based on data extracted from brain MRIs.2
+gorithms on identifying brain tumors based on data extracted from brain MRIs.
 This research aims to demonstrate the optimal algorithm for brain tumor detection3
 and present the most important features that could indicate the existence of this4
 disease.
